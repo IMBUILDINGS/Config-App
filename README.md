@@ -12,3 +12,10 @@ Fixed the issue where it was possible to reset the LoRaWAN module without adding
 [Download APK](https://drive.google.com/file/d/1iSnhUZ8vyPq9zs4s2Iai7z7ObrBSgvlX/view?usp=sharing)
 
 Added the possibility to set CO2 Threshold levels for the Display Comfort Sensor - LoRaWAN and Display Comfor Sensort - NB-IoT
+
+
+# IMBuildings Github
+
+This page is part of a github repository: [https://github.com/IMBUILDINGS/Config-App](https://github.com/IMBUILDINGS/Config-App)
+
+Other IMBuildings repositories can be found on: [https://github.com/IMBUILDINGS](https://github.com/IMBUILDINGS)
