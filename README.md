@@ -1,5 +1,13 @@
 # IMBuildings Config App
 
+**Version 1.19**
+
+[Download APK](https://drive.google.com/file/d/1ykdPZ6l6HEdhIMStSPo73gTCsgdmNhpY/view?usp=sharing)
+
+Added Desk Sensor - LoRaWAN
+Added Moodbox - NB-IoT
+Various improvements
+
 **Version 1.18**
 
 [Download APK](https://drive.google.com/file/d/1KY1nPUyqtgWPpe_2_j3kDZ__25p9TD3d/view?usp=sharing)
