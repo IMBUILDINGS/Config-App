@@ -1,5 +1,11 @@
 # IMBuildings Config App
 
+**Version 1.20 (Release Candidate 1)**
+
+[Download APK](https://drive.google.com/file/d/1ex5UnP0aeYilGgV52d0YG2aLha6U3fRU/view?usp=drive_link)
+
+Various improvements and fixes<br>
+
 **Version 1.19**
 
 [Download APK](https://drive.google.com/file/d/1ykdPZ6l6HEdhIMStSPo73gTCsgdmNhpY/view?usp=sharing)
