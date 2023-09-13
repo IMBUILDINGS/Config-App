@@ -5,6 +5,7 @@
 [Download APK](https://drive.google.com/file/d/1ex5UnP0aeYilGgV52d0YG2aLha6U3fRU/view?usp=drive_link)
 
 Various improvements and fixes<br>
+___
 
 **Version 1.19** - LoRaWAN/NB-IoT
 
