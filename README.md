@@ -7,6 +7,8 @@
 Added People Counter - NB-IoT v2.12/
 Fixed EnOcean setup
 
+___
+
 **Version 1.20 (Release Candidate 1)** - LoRaWAN/NB-IoT
 
 [Download APK](https://drive.google.com/file/d/1ex5UnP0aeYilGgV52d0YG2aLha6U3fRU/view?usp=drive_link)
