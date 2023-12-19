@@ -1,10 +1,12 @@
 # IMBuildings Config App
 
-**Version v1.21 (Release Candidate 1)** - LoRaWAN/NB-IoT/EnOcean
+**Version v1.21 (Release Candidate 2)** - LoRaWAN/NB-IoT/EnOcean
 
-[Download APK](https://drive.google.com/file/d/1l968poVERYtoPJiRGjZ777BSd3x2H0Rf/view?usp=sharing)
+[Download APK](https://drive.google.com/file/d/1Ob6GqbTAXIa43K8J0kZ3U5bQBXfz_ox-/view?usp=drive_link)
 
 Added People Counter - NB-IoT v2.12/
+Added Presets for NB-IoT connectivity/
+Updated summary page/
 Fixed EnOcean setup
 
 ___
