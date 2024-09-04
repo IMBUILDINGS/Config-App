@@ -1,5 +1,13 @@
 # IMBuildings Config App
 
+**Version v1.22 (Release Candidate 2)** - LoRaWAN/NB-IoT/EnOcean
+[Download APK](https://drive.google.com/file/d/1XwdBI1PdvPYnW5XQXE2sGgugb3Hc1I0u/view?usp=sharing)
+
+Added Region selection for LoRaWAN devices with firmware v3 and higher
+Added Autoconnect for Moodbox - NB-IoT
+Added Autoconnect for People Counter - NB-IoT
+Added support for battery powered Office Occupancy Counter
+
 **Version v1.21 (Release Candidate 2)** - LoRaWAN/NB-IoT/EnOcean
 
 [Download APK](https://drive.google.com/file/d/1Ob6GqbTAXIa43K8J0kZ3U5bQBXfz_ox-/view?usp=drive_link)
